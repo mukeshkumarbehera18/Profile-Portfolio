@@ -25,6 +25,7 @@ Data Analytics & Visualization
   Other Skills: Data Cleaning & Preparation
               Exploratory Data Analysis (EDA)
               Report Creation & Insights Writing
+
 >> Projects
  1. Restaurant Sales Analysis – Power BI
       Built a complete dashboard to analyze restaurant orders, revenue, profit, and customer behaviour
