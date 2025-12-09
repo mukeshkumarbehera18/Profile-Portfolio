@@ -18,16 +18,17 @@ I enjoy working with real-world datasets, building dashboards, and solving probl
 
 >> Technical Skills
 
-Data Analytics & Visualization
-  Power BI (DAX, Power Query, Dashboards)
-  Excel (Pivot Tables, Functions, LOOKUPS, INDEX-MATCH, Data Cleaning)
-  Programming & Libraries
+  - Data Analytics & Visualization
+  - Power BI (DAX, Power Query, Dashboards)
+  - Excel (Pivot Tables, Functions, LOOKUPS, INDEX-MATCH, Data Cleaning)
+  -  Programming & Libraries
       - Python(NumPy, Pandas, OOPS, Matplotlib / Seaborn 
-  Other Skills: Data Cleaning & Preparation
+  - Other Skills: Data Cleaning & Preparation
               Exploratory Data Analysis (EDA)
               Report Creation & Insights Writing
 
 >> Projects
+
  1. Restaurant Sales Analysis – Power BI
       Built a complete dashboard to analyze restaurant orders, revenue, profit, and customer behaviour
       Cleaned and transformed data using Power Query
@@ -57,5 +58,4 @@ Data Analytics & Visualization
 
 >> Connect With Me
      Email: muukeshkumarbehera111@gmail.com
-     LinkedIn: 1. Restaurant Sales Analysis – Power BI
-
+     LinkedIn: www.linkedin.com/in/mukesh2119
