@@ -17,6 +17,7 @@ I enjoy working with real-world datasets, building dashboards, and solving probl
   - I love learning new tools and working on practical projects
 
 >> Technical Skills
+
 Data Analytics & Visualization
   Power BI (DAX, Power Query, Dashboards)
   Excel (Pivot Tables, Functions, LOOKUPS, INDEX-MATCH, Data Cleaning)
